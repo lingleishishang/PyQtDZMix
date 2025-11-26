@@ -22,5 +22,7 @@ Export Options:
 Allows users to export visualizations and results in image formats and data in CSV format for further analysis.
 
 For questions or support, please contact the lead developer
+
 Fangbin Liu
+
 Email: liufangbin8908@163.com
